@@ -1,0 +1,15 @@
+.tags*
+.DS_Store
+*.o
+*.d*
+**/*.dSYM
+build
+minicpp.xcodeproj
+minicpp.sublime-workspace
+copl/copl.xcodeproj
+cmake-build-*
+.idea
+benchmarks/*/data/dzn
+benchmarks/*/data/fzn_cpu
+benchmarks/*/data/fzn_gpu
+benchmarks/*/data/*.zip
